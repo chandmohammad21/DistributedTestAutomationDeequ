@@ -1,0 +1,6 @@
+{
+  "storageAccount": "AzureStorage",
+  "storageAccountContainer":  "Container",
+  "fileName":  "DISTRIBUTOR",
+  "runMode": "local"
+}
